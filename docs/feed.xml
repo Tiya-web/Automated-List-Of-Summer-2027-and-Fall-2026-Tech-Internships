@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://zshah101.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-12T02:03:51Z</updated>
+  <updated>2026-10-12T09:24:23Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:tencent:/job/US-California-Palo-Alto/Data-Science-Intern_R108213</id>
+    <title>Tencent: Data Science Intern</title>
+    <link href="https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Data-Science-Intern_R108213"/>
+    <updated>2026-10-12T09:24:22Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · US-California-Palo Alto · $28.27–$60/hr · Python, SQL, Tableau</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:globalfoundries:/job/USA---Texas---Austin/Strategic-Pricing---AI-Analytics-Intern--Summer-2027-_JR-2605139</id>
     <title>GlobalFoundries: Strategic Pricing &amp; AI Analytics Intern (Summer 2027)</title>
@@ -798,13 +806,5 @@
     <updated>2026-10-06T17:28:57Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · San Jose, CA · $35/hr · Python, SQL, Tableau · H-1B track record: ~29 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:asteraearlycareer2027:4738565005</id>
-    <title>Astera Labs: Firmware Engineering Intern (Optical)</title>
-    <link href="https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4738565005"/>
-    <updated>2026-10-06T17:28:57Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · San Jose, CA · $35/hr · Python · H-1B track record: ~29 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
