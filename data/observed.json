@@ -2154,9 +2154,10 @@
     "Summer 2027": {
      "first_posted": "2026-08-25",
      "role_ids": [
-      "workday:globalfoundries:/job/USA---New-York---Malta/Cybersecurity-Intern--Summer-2027-_JR-2604459"
+      "workday:globalfoundries:/job/USA---New-York---Malta/Cybersecurity-Intern--Summer-2027-_JR-2604459",
+      "workday:globalfoundries:/job/USA---Texas---Austin/Strategic-Pricing---AI-Analytics-Intern--Summer-2027-_JR-2605139"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -5375,5 +5376,5 @@
    }
   }
  },
- "updated_at": "2026-10-11T22:42:45Z"
+ "updated_at": "2026-10-12T02:03:51Z"
 }
