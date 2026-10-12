@@ -1,10 +1,29 @@
 {
- "generated_at": "2026-10-12T09:24:23Z",
- "data_as_of": "2026-10-12T09:24:23Z",
- "rendered_at": "2026-10-12T09:24:23Z",
+ "generated_at": "2026-10-12T19:15:51Z",
+ "data_as_of": "2026-10-12T19:15:51Z",
+ "rendered_at": "2026-10-12T19:15:51Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "companies": [
+  {
+   "company": "Databricks",
+   "last_cycle_posted": "",
+   "posted_on": "2023-08-04",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2023-08-04",
+   "days_until": -1165,
+   "status": "open",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002",
+   "note": "rolling from Aug",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2023-08-04"
+   }
+  },
   {
    "company": "Perpay",
    "last_cycle_posted": "",
@@ -2476,6 +2495,25 @@
    }
   },
   {
+   "company": "RF-SMART",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-08",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-08",
+   "days_until": -34,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/rfsmart/jobs/5446867008",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-08"
+   }
+  },
+  {
    "company": "Shield AI",
    "last_cycle_posted": "",
    "posted_on": "2026-09-08",
@@ -4196,7 +4234,7 @@
    "expected": "2026-10-02",
    "days_until": -10,
    "status": "open",
-   "url": "https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Austin-TX/Intern---AI-Business-Process-Developer--Summer-2027-_R-31865",
+   "url": "https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Austin-TX/Intern---AI-Business-Process-Developer--Summer-2027-_R-31865-1",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -4696,6 +4734,25 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-10-09"
+   }
+  },
+  {
+   "company": "CapTech Consulting",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-12",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-12",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://jobs.smartrecruiters.com/CapTechConsulting/744000155019115",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-10-12"
    }
   },
   {
@@ -5243,25 +5300,6 @@
    "provenance": {
     "type": "verified-window",
     "url": "citadel.com/careers",
-    "verified_at": "2026-07-21"
-   }
-  },
-  {
-   "company": "Databricks",
-   "last_cycle_posted": "",
-   "posted_on": "",
-   "precision": "month",
-   "rolling": false,
-   "confidence": "window",
-   "source": "known",
-   "expected": "2026-08-01",
-   "days_until": -72,
-   "status": "waiting",
-   "url": "",
-   "note": "rolling from Aug",
-   "provenance": {
-    "type": "verified-window",
-    "url": "databricks.com/careers",
     "verified_at": "2026-07-21"
    }
   },
@@ -7603,25 +7641,6 @@
    }
   },
   {
-   "company": "RF-SMART",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-08",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-08",
-   "days_until": -34,
-   "status": "dropped",
-   "url": "",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-09-08"
-   }
-  },
-  {
    "company": "HMH",
    "last_cycle_posted": "",
    "posted_on": "2026-09-09",
@@ -8154,5 +8173,5 @@
    }
   }
  ],
- "count": 429
+ "count": 430
 }
