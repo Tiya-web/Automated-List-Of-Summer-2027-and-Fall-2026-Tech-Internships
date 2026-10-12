@@ -1,7 +1,7 @@
 {
-  "last_digest_at": "2026-10-11T13:47:07Z",
-  "last_digest_roles": 5,
-  "last_digest_sent": 240,
+  "last_digest_at": "2026-10-12T19:17:16Z",
+  "last_digest_roles": 21,
+  "last_digest_sent": 239,
   "sent_role_ids": [
     "ashby:anthelioncap:5e2ea37b-2369-474e-b717-c24c60976e96",
     "greenhouse:pdtpartners:8077685",
@@ -793,8 +793,11 @@
     "workday:amgen:/job/United-States---Remote/Grad-Intern---Digital-Product---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255744",
     "workday:amgen:/job/United-States---Remote/Undergrad-Intern---Digital-Product---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255711",
     "workday:gdit:/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ228404",
+    "workday:gdit:/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ228404-1",
     "workday:gdit:/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ228405",
+    "workday:gdit:/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ228405-2",
     "workday:gdit:/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ228406",
+    "workday:gdit:/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ228406-1",
     "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Cyber-Systems-Engineer-Intern---Roy-UT_R10249471",
     "workday:oshkoshcorporation:/job/San-Francisco-California-United-States/Software-Engineering-Intern_R49493",
     "workday:psu:/job/Warminster-PA/Embedded-Systems-and-Hardware-Co-Op_REQ_0000066566-2",
@@ -1477,14 +1480,36 @@
     "workday:workday:/job/USA-CA-Pleasanton/Cybersecurity-Engineer-Intern_JR-0110809",
     "workday:workday:/job/USA-CA-Pleasanton/Machine-Learning-Engineer-Intern_JR-0110812",
     "workday:workday:/job/USA-CA-Pleasanton/Software-Application-Development-Engineer-Intern_JR-0110811",
-    "workday:workday:/job/USA-CA-Pleasanton/Software-Development-Engineer-Intern_JR-0110810"
+    "workday:workday:/job/USA-CA-Pleasanton/Software-Development-Engineer-Intern_JR-0110810",
+    "greenhouse:databricks:6865687002",
+    "greenhouse:rfsmart:5427723008",
+    "greenhouse:rfsmart:5446867008",
+    "lever:acronaviation:17b5f12d-f590-432d-a421-d6f90274ae9a",
+    "smartrecruiters:CapTechConsulting:744000155019115",
+    "workday:alliance:/job/Franklin-Tennessee---United-States-of-America/Data-Science-Intern---Summer-2027---Franklin--TN_R00214250",
+    "workday:alliance:/job/Franklin-Tennessee---United-States-of-America/Financial-AI-Engineering-Intern---Summer-2027---Franklin--TN_R00214241",
+    "workday:cboe:/job/Kansas-City-MO/Software-Engineer-Intern--C---_R-4726",
+    "workday:gafsgi:/job/Parsippany-NJ/AI-Intern_26421",
+    "workday:gdit:/job/USA-VA-Falls-Church/XMLNAME-2027-Summer-Intern---Defense-Agencies--Cybersecurity-_RQ230273",
+    "workday:gdit:/job/USA-VA-Falls-Church/XMLNAME-2027-Summer-Intern---Defense-Angencies--AI-ML-_RQ230275",
+    "workday:generalmotors:/job/Mountain-View-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---AI-Machine-Learning_JR-202621620",
+    "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Machine-Learning-for-Automation_JR-202621724",
+    "workday:kla:/job/Ann-Arbor-MI/AI-ML-Software-Engineer---Intern_2641701",
+    "workday:kla:/job/Ann-Arbor-MI/AI-ML-Software-Engineer---Intern_2641701-1",
+    "workday:slihrms:/job/USCODenver/Software-Developer-Intern---Summer-2027_R-161580-1",
+    "workday:tencent:/job/US-California-Palo-Alto/Data-Science-Intern_R108213",
+    "workday:globalfoundries:/job/USA---Texas---Austin/Strategic-Pricing---AI-Analytics-Intern--Summer-2027-_JR-2605139",
+    "workday:cmu:/job/Pittsburgh-PA/AI-Security-Research-Intern---Sept-2026---May-2027-_2025068-2",
+    "workday:cmu:/job/Pittsburgh-PA/AI-Security-Research-Intern---Summer-2027_2025199-1",
+    "workday:cmu:/job/Pittsburgh-PA/AI-Security-Software-Engineer-Intern---Summer-2027_2025200-1",
+    "workday:cswg:/job/Edison-NJ/IS-Internship---Data-Analytics---Data-Science_R-268963"
   ],
   "last_digest_failed": 0,
-  "subscribers_total": 240,
+  "subscribers_total": 239,
   "send_attempts": [
     {
-      "at": "2026-10-11T13:47:07Z",
-      "count": 240
+      "at": "2026-10-12T19:17:16Z",
+      "count": 239
     }
   ]
 }
