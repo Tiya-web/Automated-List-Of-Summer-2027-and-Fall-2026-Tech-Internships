@@ -87,6 +87,18 @@
     }
    }
   },
+  "adt": {
+   "name": "ADT",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-13",
+     "role_ids": [
+      "oracle:fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com:3022387"
+     ],
+     "count": 1
+    }
+   }
+  },
   "advanced space": {
    "name": "Advanced Space",
    "cycles": {
@@ -1617,9 +1629,10 @@
     "Summer 2027": {
      "first_posted": "2026-07-28",
      "role_ids": [
+      "workday:draper:/job/Cambridge-MA/Classified-Cybersecurity-IT-Internship--Summer-2027-_JR003021",
       "workday:draper:/job/Cambridge-MA/Electronics---Embedded-Systems-Intern--Summer-2027-_JR002735"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -2691,9 +2704,10 @@
      "first_posted": "2026-10-05",
      "role_ids": [
       "workday:jainglobal:/job/New-York-New-York/Data-Engineer-Intern_JR100605-1",
-      "workday:jainglobal:/job/New-York-New-York/Quant-Research-Intern--Systematic-Trading_JR100603-1"
+      "workday:jainglobal:/job/New-York-New-York/Quant-Research-Intern--Systematic-Trading_JR100603-1",
+      "workday:jainglobal:/job/New-York-New-York/Quantitative-Developer-Intern--Summer-2027---New-York-_JR100608"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -5412,5 +5426,5 @@
    }
   }
  },
- "updated_at": "2026-10-13T08:43:10Z"
+ "updated_at": "2026-10-13T16:43:59Z"
 }
