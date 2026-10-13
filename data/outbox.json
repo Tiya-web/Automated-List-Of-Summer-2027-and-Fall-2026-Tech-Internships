@@ -1,26 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "oracle:hdhl.fa.us6.oraclecloud.com:1008240",
-      "workday:amfam:/job/WI-Madison/Summer-2027-Data-Analyst-Intern---Agency-Performance--Insights-and-Operations_R39513",
-      "greenhouse:asteraearlycareer2027:4743021005",
-      "smartrecruiters:BoschGroup:744000155120934",
-      "workday:hpe:/job/All-Illinois-United-States-of-America/HPC-AI-Systems-Service-Process-Improvement-Engineer-Intern_1213402",
-      "workday:hpe:/job/All-Tennessee-United-States-of-America/HPC-AI-System-Admin-HW-SW-Service-Engineer-Intern_1213404",
-      "workday:lifefitness:/job/Schaumburg-IL-60173/Android-Software-Intern_JR-025277",
-      "workday:lifefitness:/job/Schaumburg-IL-60173/Embedded-Software-Intern_JR-025276",
-      "workday:alliance:/job/Smyrna-Tennessee---United-States-of-America/Data-Science-Intern---Summer-2027---Smyrna--TN_R00215331"
-    ],
-    "telegram": [
-      "oracle:hdhl.fa.us6.oraclecloud.com:1008240",
-      "workday:amfam:/job/WI-Madison/Summer-2027-Data-Analyst-Intern---Agency-Performance--Insights-and-Operations_R39513",
-      "greenhouse:asteraearlycareer2027:4743021005",
-      "smartrecruiters:BoschGroup:744000155120934",
-      "workday:hpe:/job/All-Illinois-United-States-of-America/HPC-AI-Systems-Service-Process-Improvement-Engineer-Intern_1213402",
-      "workday:hpe:/job/All-Tennessee-United-States-of-America/HPC-AI-System-Admin-HW-SW-Service-Engineer-Intern_1213404",
-      "workday:lifefitness:/job/Schaumburg-IL-60173/Android-Software-Intern_JR-025277",
-      "workday:lifefitness:/job/Schaumburg-IL-60173/Embedded-Software-Intern_JR-025276",
-      "workday:alliance:/job/Smyrna-Tennessee---United-States-of-America/Data-Science-Intern---Summer-2027---Smyrna--TN_R00215331"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
