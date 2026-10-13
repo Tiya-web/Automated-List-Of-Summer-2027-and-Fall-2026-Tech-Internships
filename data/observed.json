@@ -360,13 +360,14 @@
    "name": "American Family Insurance Group",
    "cycles": {
     "Summer 2027": {
-     "first_posted": "2026-10-05",
+     "first_posted": "2026-09-25",
      "role_ids": [
+      "workday:amfam:/job/WI-Madison/Intern---Application-Billing-Center-Developer_R39407",
       "workday:amfam:/job/WI-Madison/Summer-2027-Data-Analyst-Intern---Agency-Performance--Insights-and-Operations_R39513",
       "workday:amfam:/job/WI-Madison/Summer-2027-Intern---Data-Analyst_R39404",
       "workday:amfam:/job/WI-Madison/Summer-2027-Intern---Data-Analyst_R39615"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -673,6 +674,13 @@
       "greenhouse:axontalentcommunity:7800617003",
       "greenhouse:axontalentcommunity:7800628003"
      ]
+    },
+    "Fall 2026": {
+     "first_posted": "2026-09-11",
+     "role_ids": [
+      "greenhouse:axontalentcommunity:7993376003"
+     ],
+     "count": 1
     }
    }
   },
@@ -4487,9 +4495,10 @@
     "Summer 2027": {
      "first_posted": "2026-09-03",
      "role_ids": [
+      "ashby:skydio:8994767e-fd53-4ca2-b0ef-fe0923c1e260",
       "ashby:skydio:ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -5228,6 +5237,18 @@
     }
    }
   },
+  "watts water": {
+   "name": "Watts Water",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-13",
+     "role_ids": [
+      "workday:wattswater:/job/Andover-MA-Federal-Street/IT-Network-Intern--Summer-2027_10017567"
+     ],
+     "count": 1
+    }
+   }
+  },
   "wavetronix": {
    "name": "Wavetronix",
    "cycles": {
@@ -5426,5 +5447,5 @@
    }
   }
  },
- "updated_at": "2026-10-13T16:43:59Z"
+ "updated_at": "2026-10-13T21:47:45Z"
 }

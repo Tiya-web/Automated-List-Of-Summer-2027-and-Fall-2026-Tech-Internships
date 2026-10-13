@@ -5,8 +5,72 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://zshah101.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-13T16:43:59Z</updated>
+  <updated>2026-10-13T21:47:45Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:lever:azul:8f41ceaf-8835-4fc7-ba57-9384487d59db</id>
+    <title>Azul Systems: IT Intern, AI and Operations</title>
+    <link href="https://jobs.lever.co/azul/8f41ceaf-8835-4fc7-ba57-9384487d59db"/>
+    <updated>2026-10-13T21:47:45Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Sunnyvale, CA · 25 USD/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:skydio:8994767e-fd53-4ca2-b0ef-fe0923c1e260</id>
+    <title>Skydio: Embedded Software Engineer Intern - Summer 2027</title>
+    <link href="https://jobs.ashbyhq.com/skydio/8994767e-fd53-4ca2-b0ef-fe0923c1e260"/>
+    <updated>2026-10-13T21:47:45Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · San Mateo, California, United States · $47/hr · Python, C++, Linux · H-1B track record: ~26 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:axontalentcommunity:7993376003</id>
+    <title>Axon: 2026 AfroTech Software Engineering Internship</title>
+    <link href="https://job-boards.greenhouse.io/axontalentcommunity/jobs/7993376003"/>
+    <updated>2026-10-13T21:47:45Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Software · Seattle, Washington, United States · Python, Java, C#, SQL, Scala</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:boseallaboutme:/job/US-MA---Framingham/Audio-Machine-Learning-Engineer-Co-op_R28719</id>
+    <title>Bose: Embedded Audio ML Engineer Co-op</title>
+    <link href="https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Audio-Machine-Learning-Engineer-Co-op_R28719"/>
+    <updated>2026-10-13T21:47:45Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · US, MA - Framingham · $40–$51.25/hr · Python, C++, PyTorch, TensorFlow · H-1B track record: ~61 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:boseallaboutme:/job/US-MA---Framingham/Audio-Machine-Learning-Co-op_R29274</id>
+    <title>Bose: Audio Machine Learning Co-op</title>
+    <link href="https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Audio-Machine-Learning-Co-op_R29274"/>
+    <updated>2026-10-13T21:47:45Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · US, MA - Framingham · $40–$51.25/hr · Python, C++, MATLAB, PyTorch, TensorFlow · H-1B track record: ~61 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:gdit:/job/USA-VA-Sterling/AI-and-Data-Analytics-Intern_RQ230269</id>
+    <title>General Dynamics Information Technology: AI and Data Analytics Intern 🇺🇸</title>
+    <link href="https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Sterling/AI-and-Data-Analytics-Intern_RQ230269"/>
+    <updated>2026-10-13T21:47:45Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · USA VA Sterling · Python · sponsorship: citizens-only · H-1B track record: ~28 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:kla:/job/Ann-Arbor-MI/Research-Scientist-Intern---Coating-Characterization_2642033-1</id>
+    <title>KLA: Research Scientist Intern - Coating Characterization</title>
+    <link href="https://kla.wd1.myworkdayjobs.com/AnnArbor/job/Ann-Arbor-MI/Research-Scientist-Intern---Coating-Characterization_2642033-1"/>
+    <updated>2026-10-13T21:47:45Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Ann Arbor, MI · $27–$48/hr · Python, C++, MATLAB · H-1B track record: ~369 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:wattswater:/job/Andover-MA-Federal-Street/IT-Network-Intern--Summer-2027_10017567</id>
+    <title>Watts Water: End User &amp; Infrastructure Support Intern, Summer 2027</title>
+    <link href="https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/Andover-MA-Federal-Street/IT-Network-Intern--Summer-2027_10017567"/>
+    <updated>2026-10-13T21:47:45Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Andover, MA Federal Street</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:oracle:fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com:3022387</id>
     <title>ADT: Data, Analytics &amp; AI Internship 🛂</title>
@@ -32,20 +96,20 @@
     <summary>Summer 2027 · Quant · New York, New York · Python, C++</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:kla:/job/Ann-Arbor-MI/Software-Engineering-Intern_2641821-2</id>
-    <title>KLA: Software Engineering Intern</title>
-    <link href="https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/Software-Engineering-Intern_2641821-2"/>
-    <updated>2026-10-13T16:43:59Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Ann Arbor, MI · $24–$40/hr · Python, Java, C++, C#, JavaScript · H-1B track record: ~369 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:kla:/job/Ann-Arbor-MI/Software-Engineer-Intern---AI_2641817-2</id>
     <title>KLA: Software Engineer Intern - AI</title>
     <link href="https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/Software-Engineer-Intern---AI_2641817-2"/>
     <updated>2026-10-13T16:43:59Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Ann Arbor, MI · $24–$40/hr · Python, Java, C++, C#, JavaScript · H-1B track record: ~369 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:kla:/job/Ann-Arbor-MI/Software-Engineering-Intern_2641821-2</id>
+    <title>KLA: Software Engineering Intern</title>
+    <link href="https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/Software-Engineering-Intern_2641821-2"/>
+    <updated>2026-10-13T16:43:59Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Ann Arbor, MI · $24–$40/hr · Python, Java, C++, C#, JavaScript · H-1B track record: ~369 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:kla:/job/Milpitas-CA/ML-Engineer-Intern_2641872</id>
@@ -234,7 +298,7 @@
   <entry>
     <id>urn:intern-engine:workday:kla:/job/Ann-Arbor-MI/AI-ML-Software-Engineer---Intern_2641701-1</id>
     <title>KLA: AI/ML Software Engineer - Intern</title>
-    <link href="https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/AI-ML-Software-Engineer---Intern_2641701-1"/>
+    <link href="https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/AI-ML-Software-Engineer---Intern_2641701"/>
     <updated>2026-10-12T19:15:51Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Ann Arbor, MI · $24–$32/hr · Python, SQL, LLMs · H-1B track record: ~369 approvals (FY2022–2023)</summary>
@@ -742,69 +806,5 @@
     <updated>2026-10-08T01:10:22Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Hardware · US - Puerto Rico - Juncos · C++, Unreal · H-1B track record: ~768 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:entrust:/job/United-States---Shakopee-MN-GHQ/Firmware-Engineering-Co-op_R004419</id>
-    <title>Entrust: Firmware Engineering Co-op</title>
-    <link href="https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/Firmware-Engineering-Co-op_R004419"/>
-    <updated>2026-10-08T01:10:22Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · United States - Shakopee, MN (GHQ) · $25/hr · Python, C++, Linux, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:motorolasolutions:/job/Chicago-IL/GenAI---Machine-Learning---2027-Summer-Internship--Chicago-Hybrid-_R68929</id>
-    <title>Motorola: GenAI &amp; Machine Learning - 2027 Summer Internship (Chicago Hybrid) 🛂</title>
-    <link href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/GenAI---Machine-Learning---2027-Summer-Internship--Chicago-Hybrid-_R68929"/>
-    <updated>2026-10-08T01:10:22Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Chicago, IL · LLMs, Python, scikit-learn, Pandas, AWS · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:pdtpartners:8263031</id>
-    <title>PDT Partners: Summer 2027 Quantitative Research Intern</title>
-    <link href="https://job-boards.greenhouse.io/pdtpartners/jobs/8263031"/>
-    <updated>2026-10-08T15:14:49Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Quant · New York, NY · Python, C++, MATLAB · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:stateaffairs:4437430009</id>
-    <title>State Affairs: Software Engineer Intern (Summer 2027)</title>
-    <link href="https://job-boards.greenhouse.io/stateaffairs/jobs/4437430009"/>
-    <updated>2026-10-08T07:37:43Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Washington, DC · TypeScript, SQL, LLMs, React, Next.js · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Spring-Summer-2027-_01879726</id>
-    <title>RTX: Software Engineering Co-op (Spring/Summer 2027)</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Spring-Summer-2027-_01879726"/>
-    <updated>2026-10-07T21:04:20Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · US-IA-CEDAR RAPIDS-130 ~ 5350 C Ave NE ~ BLDG 130 · C++, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Summer-Fall-2027-_01879738</id>
-    <title>RTX: Software Engineering Co-op (Summer/Fall 2027)</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Summer-Fall-2027-_01879738"/>
-    <updated>2026-10-07T21:04:20Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · US-IA-CEDAR RAPIDS-130 ~ 5350 C Ave NE ~ BLDG 130 · C++, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:hpe:/job/Spring-Texas-United-States-of-America/AI-Performance-Engineering-Intern_1213417</id>
-    <title>Hewlett Packard Enterprise: AI Performance Engineering Intern</title>
-    <link href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/AI-Performance-Engineering-Intern_1213417"/>
-    <updated>2026-10-07T21:04:20Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Spring, Texas, United States of America · Python, PyTorch, TensorFlow, LLMs, CUDA · H-1B track record: ~499 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ejia.fa.us6.oraclecloud.com:107374</id>
-    <title>S&amp;C Electric Company: Software Engineer Intern</title>
-    <link href="https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107374"/>
-    <updated>2026-10-08T01:10:22Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Chicago, IL, United States · $22–$30/hr · Python, C#, JavaScript, SQL, Angular · status: closed · H-1B track record: ~10 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-13T16:43:59Z",
- "data_as_of": "2026-10-13T16:43:59Z",
- "rendered_at": "2026-10-13T16:44:00Z",
+ "generated_at": "2026-10-13T21:47:45Z",
+ "data_as_of": "2026-10-13T21:47:45Z",
+ "rendered_at": "2026-10-13T21:47:46Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "companies": [
@@ -2438,25 +2438,6 @@
    }
   },
   {
-   "company": "C.H. Robinson",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-08",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-08",
-   "days_until": -35,
-   "status": "open",
-   "url": "https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Software-Engineering-Internship-2027_R49323",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-09-08"
-   }
-  },
-  {
    "company": "Coinbase",
    "last_cycle_posted": "",
    "posted_on": "2026-09-08",
@@ -3759,7 +3740,7 @@
    "expected": "2026-09-21",
    "days_until": -22,
    "status": "open",
-   "url": "https://upbound.wd501.myworkdayjobs.com/Upbound/job/Plano-TX/Cybersecurity-Intern_R-100776",
+   "url": "https://upbound.wd501.myworkdayjobs.com/Upbound/job/Plano-TX/User-Experience-Intern_R-100778",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -3841,6 +3822,25 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-09-24"
+   }
+  },
+  {
+   "company": "American Family Insurance Group",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-25",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-25",
+   "days_until": -18,
+   "status": "open",
+   "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Intern---Application-Billing-Center-Developer_R39407",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-25"
    }
   },
   {
@@ -4319,25 +4319,6 @@
    }
   },
   {
-   "company": "American Family Insurance Group",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-05",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-05",
-   "days_until": -8,
-   "status": "open",
-   "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Data-Analyst-Intern---Agency-Performance--Insights-and-Operations_R39513",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-10-05"
-   }
-  },
-  {
    "company": "Jain Global",
    "last_cycle_posted": "",
    "posted_on": "2026-10-05",
@@ -4528,25 +4509,6 @@
    }
   },
   {
-   "company": "Rivet Industries",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-06",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-06",
-   "days_until": -7,
-   "status": "open",
-   "url": "https://jobs.ashbyhq.com/rivet/03fcb078-7371-4cfd-89a9-368e5b60d914",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-10-06"
-   }
-  },
-  {
    "company": "Sigma Computing",
    "last_cycle_posted": "",
    "posted_on": "2026-10-06",
@@ -4596,6 +4558,25 @@
    "days_until": -6,
    "status": "open",
    "url": "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Data-Science-Intern---Summer-2027---Franklin--TN_R00214250",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-10-07"
+   }
+  },
+  {
+   "company": "State Affairs",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-07",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-07",
+   "days_until": -6,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/stateaffairs/jobs/4437430009",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -4786,6 +4767,25 @@
    "days_until": 0,
    "status": "open",
    "url": "https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3022387",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-10-13"
+   }
+  },
+  {
+   "company": "Watts Water",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-13",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-13",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/Andover-MA-Federal-Street/IT-Network-Intern--Summer-2027_10017567",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -7584,6 +7584,25 @@
    }
   },
   {
+   "company": "C.H. Robinson",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-08",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-08",
+   "days_until": -35,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-08"
+   }
+  },
+  {
    "company": "CHAOS Industries",
    "last_cycle_posted": "",
    "posted_on": "2026-09-08",
@@ -8154,26 +8173,26 @@
    }
   },
   {
-   "company": "S&C Electric Company",
+   "company": "Rivet Industries",
    "last_cycle_posted": "",
-   "posted_on": "2026-10-07",
+   "posted_on": "2026-10-06",
    "precision": "day",
    "rolling": false,
    "confidence": "verified",
    "source": "engine",
-   "expected": "2026-10-07",
-   "days_until": -6,
+   "expected": "2026-10-06",
+   "days_until": -7,
    "status": "dropped",
    "url": "",
    "note": "",
    "provenance": {
     "type": "engine-observed",
     "cycle": "Summer 2027",
-    "observed_on": "2026-10-07"
+    "observed_on": "2026-10-06"
    }
   },
   {
-   "company": "State Affairs",
+   "company": "S&C Electric Company",
    "last_cycle_posted": "",
    "posted_on": "2026-10-07",
    "precision": "day",
@@ -8192,5 +8211,5 @@
    }
   }
  ],
- "count": 431
+ "count": 432
 }
